@@ -12,5 +12,5 @@ Stay Awake - TTP allows to move your mouse pointer at periodic time intervals.
 Current time intervals supported - 3 seconds to 10 seconds. Values less than 3 seconds will deafult to 3 seconds. Values greater than 10 seconds will default to 10 seconds.
 
 Latest:
-![build](https://github.com/architpanigrahi/stay-awake/actions/workflows/python-app.yml/badge.svg)
+![build workflow](https://github.com/architpanigrahi/stay-awake/actions/workflows/python-app.yml/badge.svg)
 
